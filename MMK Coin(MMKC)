@@ -1,0 +1,10 @@
+{ 
+     "name": "MMK Coin",
+     "website": "https://www.bnbchain.world/en/smartChain",
+     "description": "A blockchain with a full-fledged environment for developing high-performance decentralized applications and cross-chain compatibility with Binance Chain.", "explorer": "https://bscscan.com/", "research": "https://research.binance.com/en/projects/bnb",
+     "symbol": "MMKC",
+     "type": "BEP20",
+     "decimals":" 2",
+     "status": "active",
+     "tags": [ "staking-native"]
+ }
